@@ -1,1 +1,7 @@
-# Data_structure_c-
+# Data_structure_c++
+- 栈
+  顺序存储结构
+  链式存储结构
+- 队列
+  链式存储结构
+  顺序存储结构
